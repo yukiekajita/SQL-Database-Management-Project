@@ -1,4 +1,4 @@
-# SQL_Challenge
+# SQL Project
 
 I designed the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. 
 
@@ -15,11 +15,11 @@ Inspected the CSVs and sketched out an ERD of the tables. I used a tool: [http:/
 
 #### Data Engineering
 
-* Used the information I created a table schema for each of the six CSV files with specifying data types, primary keys, foreign keys, and other constraints.
+* I created a table schema for each of the six CSV files with specifying data types, primary keys, foreign keys, and other constraints.
 
-* Imported each CSV file into the corresponding SQL table. 
+* Imported each CSV file into the corresponding SQL table using postgreSQL.
 
-#### Data Analysis
+#### Data Analysis with Query
 
 1. Listed the following details of each employee: employee number, last name, first name, sex, and salary.
 
@@ -37,13 +37,26 @@ Inspected the CSVs and sketched out an ERD of the tables. I used a tool: [http:/
 
 8. In descending order, listed the frequency count of employee last names, i.e., how many employees share each last name.
 
-## Bonus (Optional)
+## Extra
 
 1. Imported the SQL database into Pandas.
 
 2. Created a histogram to visualize the most common salary ranges for employees.
 
+* Histogram Image
+
+
+![Histogram](Readme_Images/Histogram.png)
+
 3. Created a bar chart of average salary by title.
+
+* Bar Chart Image
+
+
+![Bar_Chart](Readme_Images/Bar_Chart.png)
+
+
+Enjoy!
 
 ## Epilogue
 

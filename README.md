@@ -64,7 +64,7 @@ Searched ID number: 499942.
 * ID 499942 Information
 
 
-![Epiloque_Image](Readme_Images/Epiloque.png)
+![Epiloque_Image](Readme_Images/Epiloque_Image.png)
 
 
 Enjoy!

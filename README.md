@@ -1,6 +1,6 @@
 # SQL Project
 
-I designed the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. 
+I designed the tables to hold data in the CSVs, imported the CSVs into a SQL database, and answered questions about the data. 
 
 #### Data Modeling
 
@@ -56,8 +56,11 @@ Inspected the CSVs and sketched out an ERD of the tables. I used a tool: [http:/
 ![Bar_Chart](Readme_Images/Bar_Chart.png)
 
 
-Enjoy!
-
 ## Epilogue
 
 Searched ID number: 499942.
+
+
+
+
+Enjoy!

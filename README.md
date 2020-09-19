@@ -6,6 +6,13 @@ I designed the tables to hold data in the CSVs, import the CSVs into a SQL datab
 
 Inspected the CSVs and sketched out an ERD of the tables. I used a tool: [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
+* ERD Image
+
+
+![Employee_ERD](EmployeeSQL/Employees_ERD.png)
+
+
+
 #### Data Engineering
 
 * Used the information I created a table schema for each of the six CSV files with specifying data types, primary keys, foreign keys, and other constraints.

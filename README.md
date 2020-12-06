@@ -1,10 +1,8 @@
-# SQL Project
-
-I designed the tables to hold data in the CSVs, imported the CSVs into a SQL database, and answered questions about the data. 
+# SQL Database Management Project
 
 #### Data Modeling
 
-Inspected the CSVs and sketched out an ERD of the tables. I used a tool: [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
+I inspected the CSV files that I obtained for the project, and sketched out an Entity Relationship Diagram (ERD). I used a tool: [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com), to create the diagram.
 
 * ERD Image
 
@@ -21,34 +19,34 @@ Inspected the CSVs and sketched out an ERD of the tables. I used a tool: [http:/
 
 #### Data Analysis with Query
 
-1. Listed the following details of each employee: employee number, last name, first name, sex, and salary.
+1. I listed the following details of each employee: employee number, last name, first name, sex, and salary.
 
-2. Listed first name, last name, and hire date for employees who were hired in 1986.
+2. I iisted first name, last name, and hire date for employees who were hired in 1986.
 
-3. Listed the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+3. I listed the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
-4. Listed the department of each employee with the following information: employee number, last name, first name, and department name.
+4. I listed the department of each employee with the following information: employee number, last name, first name, and department name.
 
-5. Listed first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+5. I listed first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
 
-6. Listed all employees in the Sales department, including their employee number, last name, first name, and department name.
+6. I listed all employees in the Sales department, including their employee number, last name, first name, and department name.
 
-7. Listed all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+7. I listed all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
-8. In descending order, listed the frequency count of employee last names, i.e., how many employees share each last name.
+8. In descending order, I listed the frequency count of employee last names, i.e., how many employees share each last name.
 
 ## Extra
 
-1. Imported the SQL database into Pandas.
+1. I imported the SQL database into Python-Pandas.
 
-2. Created a histogram to visualize the most common salary ranges for employees.
+2. I created a histogram to visualize the most common salary ranges for the employees.
 
 * Histogram Image
 
 
 ![Histogram](Readme_Images/Histogram.png)
 
-3. Created a bar chart of average salary by title.
+3. I created a bar chart of the average salary by job titles.
 
 * Bar Chart Image
 

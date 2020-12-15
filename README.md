@@ -21,7 +21,7 @@ I inspected the CSV files that I obtained for the project, and sketched out an E
 
 1. I listed the following details of each employee: employee number, last name, first name, sex, and salary.
 
-2. I iisted first name, last name, and hire date for employees who were hired in 1986.
+2. I listed first name, last name, and hire date for employees who were hired in 1986.
 
 3. I listed the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
